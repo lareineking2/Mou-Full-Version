@@ -252,4 +252,4 @@ This repository serves as the official landing page for Mou. The software is dis
 **Get the most recent version of Mou today!**
 
 ---
-**Last updated:** 2026-09-12 13:55:44 UTC
+**Last updated:** 2026-09-12 16:53:10 UTC
